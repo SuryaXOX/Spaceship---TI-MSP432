@@ -2,7 +2,7 @@
 
 This is a fun game created to bring back the 90s. A typical spaceship battling its way through space.
 
-You can maneuver the spacship by either using the joystick of the Launchpad, or if you could choose to send movement commands right from your computer and moniter its movements.
+You can maneuver the spaceship by either using the joystick of the Launchpad, or if you could choose to send movement commands right from your computer and monitor its movements.
 
 ![image](https://user-images.githubusercontent.com/71836374/144620405-abab47af-c21d-43a0-9b66-b0eab5f611ed.png)
 
